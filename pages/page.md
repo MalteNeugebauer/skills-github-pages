@@ -1,5 +1,6 @@
 ---
 title: Research Page
+permalink: /research/
 ---
 
 # Research Page
