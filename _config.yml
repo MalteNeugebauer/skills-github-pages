@@ -1,6 +1,7 @@
 title: Learning Github Pages With The Inbuilt Skills Module
 author: Malte Neugebauer
 description: A page built as an example during a lesson of Github's skills module.
+permalink: pretty
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
 - jekyll-remote-theme
